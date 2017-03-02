@@ -11,6 +11,6 @@
 - [x] Return the plain ordinary java object from C++.
 - [x] Cache callback instance in C++ and invoke method later.
 - [x] Manipulate thread in C++.
-- [] Communicate between threads in C++.
-- [] Include C++ HTTP/SOCKET tools.
-- [] Go through with CMakelists.txt file.
+- [ ] Communicate between threads in C++.
+- [ ] Include C++ HTTP/SOCKET tools.
+- [ ] Go through with CMakelists.txt file.
