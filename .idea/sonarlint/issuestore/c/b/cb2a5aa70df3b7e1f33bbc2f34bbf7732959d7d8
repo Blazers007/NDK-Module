@@ -1,0 +1,6 @@
+
+csquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±Ž
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°ÿÈ
+8±Ãƒå¨+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8±Ãƒå¨+
+_squid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Á¼©å¨+
